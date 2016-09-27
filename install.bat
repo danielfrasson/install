@@ -2,7 +2,7 @@
 
 echo Instalação de programas. Ainda precisará instalar: update da Bios, calculadora winaero, Office 365 x64, Drivers Nvidia, MySQL For Excel, Smart Switch, Acer Power Management, SyncToy 2.1 (x64), Adobe Acrobat DC e Kaspersky Total Security. Veja na desktop a lista completa.
 
-echo Instalar update da Bios, calculadora winaero, Office 365 x64, Drivers Nvidia, MySQL For Excel, Smart Switch, Acer Power Management, SyncToy 2.1 (x64), Adobe Acrobat DC e Kaspersky Total Security. > C:\instalar.txt
+echo Instalar último update da Bios, calculadora winaero, Office 365 x64, Drivers Nvidia, MySQL For Excel, Smart Switch, Acer Power Management, SyncToy 2.1 (x64), Adobe Acrobat DC e Kaspersky Total Security. > C:\instalar.txt
 
 pause
 
